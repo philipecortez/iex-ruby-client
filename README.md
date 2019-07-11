@@ -1,3 +1,5 @@
+# Fork to Add Symbols Endpoint
+
 # IEX Finance API
 
 [![Gem Version](https://badge.fury.io/rb/iex-ruby-client.svg)](https://badge.fury.io/rb/iex-ruby-client)
