@@ -15,6 +15,7 @@ module IEX
       include Endpoints::Price
       include Endpoints::Quote
       include Endpoints::Sectors
+      include Endpoints::Symbols
 
       include Cloud::Connection
       include Cloud::Request
